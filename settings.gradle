@@ -1,4 +1,6 @@
-include ':app', ':love', ':mvvm',
+include ':app',
+        ':love',
+        ':mvvm',
         ':library',
         ':book',
         ':news',
